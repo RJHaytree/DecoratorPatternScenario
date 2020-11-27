@@ -2,7 +2,6 @@
 An example scenario for the decorator pattern, using the example of cake with various toppings, with each topping acting as a wrapper (decorator).
 
 ## The scenario
-------------------------
 The decorator pattern can quickly become convoluted due to the large number of interconnected components. For this reason, the scenario presented here has been simplified to present the structure of the singleton pattern, while being relatively straight-forward to understand in the context.
 
 In this scenario, there are 5 different classes of interest:

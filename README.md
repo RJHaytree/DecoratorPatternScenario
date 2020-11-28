@@ -1,4 +1,4 @@
-# DecoratorPatternScenario
+# Decorator Pattern Scenario
 An example scenario for the decorator pattern, using the example of cake with various toppings, with each topping acting as a wrapper (decorator).
 
 ## The Scenario
